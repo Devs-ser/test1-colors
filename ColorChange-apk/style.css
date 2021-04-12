@@ -1,0 +1,49 @@
+body,
+html{
+  margin: 0;
+  padding: 0;
+  }
+h6{
+  font-family: Parisienne;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+}
+p{
+  font-family: Parisienne;
+  font-size: 7rem ;
+  display: flex;
+  justify-content: center;
+
+
+}
+button {
+  width: 15rem;
+  height: 5rem;
+  display: block;
+  border: none;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+  transition: all .35s ease;
+  cursor: pointer;
+  background-color: #02090c;
+  color: #ffb !important;
+}
+
+
+button:hover {
+  background-color: #04394b;
+}
+
+button:focus {
+  outline: none;
+}
+
+.wrapper {
+  display: flex;
+  flex: 1;
+  height: 40vh;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
