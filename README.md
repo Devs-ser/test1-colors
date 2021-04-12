@@ -7,4 +7,4 @@
 
 ### Subam o projeto de vocês dentro de uma pasta, podem criar o readme  e o modelo a vontade.
 
-#### Dentro ja tem a ideia na pasta Modelo  e a minha  ApK.
+#### Dentro ja tem a ideia na pasta Modelo  e a minha ApK.
